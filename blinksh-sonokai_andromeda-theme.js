@@ -42,6 +42,6 @@ t.prefs_.set('color-palette-overrides',
 	]
 );
 
-t.prefs_.set('cursor-color',			fhhrh fhrn);
+t.prefs_.set('cursor-color',			cursor);
 t.prefs_.set('foreground-color',	foreground);
 t.prefs_.set('background-color',	background);
