@@ -17,14 +17,14 @@ magenta		= '#bb97ee';
 cyan		= '#f89860';
 white		= '#e1e3e4';
 
-lightBlack	= '#7e8294';
-lightRed	= '#fb617e';
-lightGreen	= '#9ed06c';
-lightYellow	= '#edc763';
-lightBlue	= '#6dcae8';
-lightMagenta	= '#bb97ee';
-lightCyan	= '#f89860';
-lightWhite	= '#e1e3e4';
+lightBlack	= '#131517';
+lightRed	= '#f65c79';
+lightGreen	= '#99cb67';
+lightYellow	= '#e8c25e';
+lightBlue	= '#68c5e3';
+lightMagenta	= '#b692e9';
+lightCyan	= '#f3925b';
+lightWhite	= '#dcdedf';
 
 t.prefs_.set('color-palette-overrides',
 	[
